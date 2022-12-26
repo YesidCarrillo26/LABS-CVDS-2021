@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html xmlns:h="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <script>
+            function validator(){
+                var x = document.forms["joder"]["idTi"].value;
+                if (x == ""){
+                    alert("Ingrese algo bien eche no joda");
+                    return false;
+                }
+            }
+        </script>
+        <form name = "joder" action="http://localhost:8080/EstoNoEsURL" method="post">
+            <p style="color:";>Ingrese un numero:</p> <input type="text" id="idTi" name="id">
+            <input type="submit" onclick="validator()" value="enviar">
+        </form>
+        <h:body>
+            <h:form id="guess_form">
+
+            </h:form>
+        </h:body>
+    </body>
+</html>

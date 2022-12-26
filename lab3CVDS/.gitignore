@@ -1,0 +1,5 @@
+# Ignorar el directorio target
+target/
+
+#Ignorar la carpeta del IDE
+.idea/

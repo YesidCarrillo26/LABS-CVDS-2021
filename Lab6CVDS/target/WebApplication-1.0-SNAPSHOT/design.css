@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+form{
+    display: inline-block;
+}
+.panelGridCenter {
+    margin: 10 auto;
+}
+
+.ui-datatable {
+    margin: 5% 8% 0 8%;
+    text-align: center;
+}
+
+.invisible{
+    display: none;
+}
+

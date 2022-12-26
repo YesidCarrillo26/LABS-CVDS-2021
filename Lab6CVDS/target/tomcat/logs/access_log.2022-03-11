@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:12 -0500] "GET /faces/guess.xhtml HTTP/1.1" 200 4624 http-bio-8080-exec-1 1078
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/javax.faces.resource/jquery/jquery.js?ln=primefaces&v=7.0 HTTP/1.1" 200 87020 http-bio-8080-exec-2 117
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/javax.faces.resource/core.js?ln=primefaces&v=7.0 HTTP/1.1" 200 37704 http-bio-8080-exec-5 206
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/javax.faces.resource/jquery/jquery-plugins.js?ln=primefaces&v=7.0 HTTP/1.1" 200 267442 http-bio-8080-exec-6 152
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/javax.faces.resource/components.css?ln=primefaces&v=7.0 HTTP/1.1" 200 93130 http-bio-8080-exec-3 224
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/javax.faces.resource/components.js?ln=primefaces&v=7.0 HTTP/1.1" 200 422192 http-bio-8080-exec-4 236
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /faces/design.css HTTP/1.1" 200 36 http-bio-8080-exec-2 53
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:13 -0500] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:21 -0500] "POST /faces/guess.xhtml HTTP/1.1" 200 3699 http-bio-8080-exec-3 24
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:27 -0500] "POST /faces/guess.xhtml HTTP/1.1" 200 3827 http-bio-8080-exec-3 14
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:29 -0500] "POST /faces/guess.xhtml HTTP/1.1" 200 3681 http-bio-8080-exec-6 14
+0:0:0:0:0:0:0:1 - - [11/Mar/2022:12:20:29 -0500] "POST /faces/guess.xhtml HTTP/1.1" 200 3681 http-bio-8080-exec-6 9
